@@ -9,3 +9,5 @@ if ((max > other) && (min < other)) {
 } else if (min > max) {
     console.log ("You are retarded")
 }
+
+// Ask the user to enter three numbers: min, max and current. Display if current is between min and max.

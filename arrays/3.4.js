@@ -6,3 +6,5 @@ console.log(
   console.log(
       Math.min(...arr)
   )
+
+  // Write a program that will display the minimum and maximum elements of a given array.
